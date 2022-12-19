@@ -66,7 +66,7 @@ Connect with me:
             <td width="30px" align="center">
             <a href="https://www.credly.com/badges/b2c745ec-18d2-4f23-af5f-6c75cc4f4567/public_url" target="_blank" rel="noreferrer">
             <span><strong>Microsoft Certified: Azure <br>Fundamentals</strong></span><br>
-            <img height="80px" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+            <img height="80px" src="https://i.ibb.co/g7KkWFN/Mc.png">
             </a>
             </td>
             <td width="30px" align="center">
