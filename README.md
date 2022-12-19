@@ -84,7 +84,8 @@ Connect with me:
                <td width="50px" align="center">
                 <a href="https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726" target="_blank" rel="noreferrer">
             <span><strong><br>Java <br> Explorer</strong></span><br>
-            <img height="80px" src="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=79726">
+            <!-- <img height="80px" src="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=79726"> -->
+             <img height="80px" src="https://i.ibb.co/xsZPR4V/JavaExx.png"> 
             </a>
             </td>
 </tr>
