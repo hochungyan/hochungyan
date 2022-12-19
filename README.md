@@ -7,6 +7,9 @@ Connect with me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justin-ho-amimeche-260055114/)
 
+
+
+
 💼 Skills!
 <table width="320px">
     <tbody>
@@ -56,7 +59,9 @@ Connect with me:
           
           
    </table>
-
+    
+[![Chung’s github stats](https://github-readme-stats.vercel.app/api?username=hochungyan)](https://github.com/hochungyan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hochungyan&layout=compact)](https://github.com/hochungyan)
 <!--
 **hochungyan/hochungyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
