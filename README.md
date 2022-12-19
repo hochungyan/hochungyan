@@ -59,7 +59,22 @@ Connect with me:
           
           
    </table>
-    
+ 🎓 Certificates! [Click on the Images]:
+<div>
+<a href="https://www.credly.com/badges/b2c745ec-18d2-4f23-af5f-6c75cc4f4567/public_url" target="_blank" rel="noreferrer">
+  <img width=80px src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.credly.com/badges/e9c9facb-0366-4811-8461-fd23bc042659/public_url" target="_blank" rel="noreferrer">
+  <img width=80px src="https://images.credly.com/size/340x340/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png">&nbsp;
+  </a>
+  <a href="https://www.credly.com/badges/c1c4454f-15b7-4c5e-bea5-15844c94a0ce/public_url" target="_blank" rel="noreferrer">
+<img width=80px src="https://images.credly.com/size/340x340/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer.png">&nbsp;
+</a>
+</div>
+
+</br>
+
+
 [![Chung’s github stats](https://github-readme-stats.vercel.app/api?username=hochungyan)](https://github.com/hochungyan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hochungyan&layout=compact)](https://github.com/hochungyan)
 <!--
