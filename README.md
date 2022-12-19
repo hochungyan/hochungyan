@@ -1,5 +1,6 @@
-💼 Skills
+[LinkedIn Cover 1584x396 px](https://user-images.githubusercontent.com/100369959/208345360-189b89e0-2e1a-49a0-b09c-5b8b846bf5c6.jpeg)
 
+💼 Skills!
 <table width="320px">
     <tbody>
         <tr valign="top">
