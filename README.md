@@ -70,6 +70,9 @@ Connect with me:
   <a href="https://www.credly.com/badges/c1c4454f-15b7-4c5e-bea5-15844c94a0ce/public_url" target="_blank" rel="noreferrer">
 <img width=80px src="https://images.credly.com/size/340x340/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer.png">&nbsp;
 </a>
+ <a href="https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726" target="_blank" rel="noreferrer">
+<img height =80px width=80px src="https://education.oracle.com/file/general/Oracle-Explorer-Badge.png">&nbsp;
+</a>
 </div>
 
 </br>
