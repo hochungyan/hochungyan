@@ -3,6 +3,10 @@ Hey there 👋
 
 I’m Chung, a junior full-stack engineer, software tester and self-proclaimed problem solver. I enjoy learning new things and a PC gamer!
 
+Connect with me: 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justin-ho-amimeche-260055114/)
+
 💼 Skills!
 <table width="320px">
     <tbody>
