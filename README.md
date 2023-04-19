@@ -88,6 +88,15 @@ Connect with me:
              <img height="80px" src="https://i.ibb.co/xsZPR4V/JavaExx.png"> 
             </a>
             </td>
+          //
+          <td width="90px" align="center">
+                <a href="https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726" target="_blank" rel="noreferrer">
+            <span><strong><br>Java Certified <br>  Foundations Associate</strong></span><br>
+            <!-- <img height="80px" src="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=79726"> -->
+             <img height="90px" src="https://brm-workforce.oracle.com/pdf/certview/images/JAVA8OJA.png"> 
+            </a>
+            </td>
+          //
 </tr>
 </tbody>
 </table>
