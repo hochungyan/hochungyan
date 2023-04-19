@@ -78,7 +78,7 @@ Connect with me:
            <td width="30px" align="center">
            <a href="https://www.credly.com/badges/c1c4454f-15b7-4c5e-bea5-15844c94a0ce/public_url" target="_blank" rel="noreferrer">
             <span><strong><br>Agile <br>Explorer</strong></span><br>
-            <img height="80px" src="https://images.credly.com/size/340x340/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer.png">
+            <img height="80px" src="https://images.credly.com/size/340x340/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png">
             </a>
             </td>
                <td width="50px" align="center">
