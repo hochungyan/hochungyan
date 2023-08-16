@@ -1,4 +1,5 @@
-![LinkedIn Cover 1584x396 px](https://user-images.githubusercontent.com/100369959/208345466-de20da63-fc98-41bc-8d59-19a9864e8d5b.jpeg)
+![LinkedIn Cover 1584x396 px (1)](https://github.com/hochungyan/hochungyan/assets/100369959/59beaf7d-965f-49b2-8b43-ec89433741f4)
+
 Hey there 👋
 
 I’m Chung, a junior full-stack engineer, software tester and self-proclaimed problem solver. I enjoy learning new things and a PC gamer!
