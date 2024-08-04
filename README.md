@@ -1,13 +1,12 @@
 ![LinkedIn Cover 1584x396 px (1)](https://github.com/hochungyan/hochungyan/assets/100369959/59beaf7d-965f-49b2-8b43-ec89433741f4)
 
 Hey there 👋
-
-I’m Chung, a junior full-stack engineer, software tester and self-proclaimed problem solver. I enjoy learning new things and a PC gamer!
+I’m Chung, a Junior Backend Engineer, Software Tester, and self-proclaimed Problem Solver. With a robust foundation in Python programming and backend development, I excel in enhancing backend functionality and optimizing solutions for efficiency and scalability. I’m passionate about learning new technologies and methodologies, and in my downtime, I enjoy PC gaming.
 
 Connect with me: 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justin-ho-amimeche-260055114/)
-
+[![Digital CV](https://img.shields.io/badge/Digital%20CV-Portfolio-informational?style=flat&logo=read-the-docs&logoColor=white&color=0D76A8)](https://bold.pro/my/chungyan-ho)
 
 
 
