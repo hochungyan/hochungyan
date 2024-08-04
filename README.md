@@ -20,6 +20,10 @@ Connect with me:
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
@@ -35,6 +39,10 @@ Connect with me:
             <span><strong>Bootstrap</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
             </td>
+            <td width="80px" align="center">
+    <span><strong>SQL</strong></span><br>
+    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -56,6 +64,15 @@ Connect with me:
             <span><strong>Node.js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Postman</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+            </td>
+            <td width="80px" align="center">
+    <span><strong>Pytest</strong></span><br>
+    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg">
+</td>
+
           
           
           
