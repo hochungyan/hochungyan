@@ -105,7 +105,6 @@ Connect with me:
              <img height="80px" src="https://i.ibb.co/xsZPR4V/JavaExx.png"> 
             </a>
             </td>
-          //
           <td width="90px" align="center">
                 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F6918E83A409B8A40947B38702A693E314BC17C7D1BF88372753887C4F04488C" target="_blank" rel="noreferrer">
             <span><strong><br>Java Certified <br>  Foundations Associate</strong></span><br>
@@ -113,7 +112,7 @@ Connect with me:
              <img height="90px" src="https://brm-workforce.oracle.com/pdf/certview/images/JAVA8OJA.png"> 
             </a>
             </td>
-          //
+          
 </tr>
 </tbody>
 </table>
