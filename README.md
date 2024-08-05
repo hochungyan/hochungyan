@@ -5,7 +5,7 @@ I’m Chung, a Junior Backend Engineer, Software Tester, and self-proclaimed Pro
 
 Connect with me: 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justin-ho-amimeche-260055114/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chung-yan-ho-amimeche-260055114/)
 [![Digital CV](https://img.shields.io/badge/Digital%20CV-Portfolio-informational?style=flat&logo=read-the-docs&logoColor=white&color=0D76A8)](https://bold.pro/my/chungyan-ho)
 
 
